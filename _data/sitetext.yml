@@ -125,6 +125,16 @@ en: &DEFAULT_EN
           #  icon: fab fa-facebook-f
           - url: https://www.linkedin.com/in/benjamin-yavitt-6b4898a9/
             icon: fab fa-linkedin-in
+      - name: "Luke Johnstone"
+        role: "Student"
+        image: assets/img/team/LukeJohnstone_Headshot.jpg
+        social:
+          #- url: https://twitter.com
+          #  icon: fab fa-twitter
+          #- url: https://facebook.com
+          #  icon: fab fa-facebook-f
+          #- url: https://www.linkedin.com/in/benjamin-yavitt-6b4898a9/
+          #  icon: fab fa-linkedin-in
       #- name: "Diana Perterson"
       #  role: "Lead Developer"
       #  image: assets/img/team/500x500.jpg
