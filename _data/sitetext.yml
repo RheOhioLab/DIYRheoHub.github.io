@@ -127,7 +127,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Luke Johnstone"
         role: "Undergraduate Researcher"
-        image: assets/img/team/LukeHeadshot.JPG
+        image: assets/img/team/HeadshotLuke.jpg
         social:
       #    - url: https://twitter.com
       #      icon: fab fa-twitter
