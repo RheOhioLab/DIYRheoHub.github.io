@@ -134,7 +134,7 @@ en: &DEFAULT_EN
       #    - url: https://facebook.com
       #      icon: fab fa-facebook-f
           - url: https://linkedin.com
-      #      icon: fab fa-linkedin-in
+            icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
