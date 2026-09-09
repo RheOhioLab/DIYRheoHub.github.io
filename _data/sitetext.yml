@@ -29,10 +29,10 @@ en: &DEFAULT_EN
         desc: "Explore more rheology with Society of Rheology!"
         link: "https://www.rheology.org/sor/"
         icon: fas fa-solid fa-hourglass-half
-        #title: "[Translate](https://forms.gle/V4Zp4oitCafpmL7s9)"
-        #desc: "Help us bring Rheology Comics to more languages!"
-        #link: "https://forms.gle/V4Zp4oitCafpmL7s9"
-        #icon: fas fa-solid fa-language
+      - title: "[Experiment](http://www.ecs.umass.edu/mie/faculty/rothstein/links.htm)"
+        desc: "Try more K12 demos and activities"
+        link: "http://www.ecs.umass.edu/mie/faculty/rothstein/links.htm"
+        icon: fas fa-solid fa-flask
       #- title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
       #  desc: "Your description here, full **Markdown** support"
       #  icon: fab fa-markdown
