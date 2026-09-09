@@ -4,5 +4,5 @@
 #black: "#000"
 
 #Image Customization
-header-image: '../img/title-bg.jpg' #"../img/bowlcat-headerwhite-bg.png"
+header-image: '../img/title-bg1.jpg' #"../img/bowlcat-headerwhite-bg.png"
 contact-image: #"../img/map-image.png"
