@@ -18,3 +18,5 @@ A fun simple project to measure the viscosity of simple Newtonain and non-Newton
  
 Original design by Miriam Knutson, Sasanka P. Weerakoon, C. J. Ticknor, Benjamin M. Yavitt, and Aashish Priye from University of Cincinnati <br><br>
 Check out [the paper](https://pubs.acs.org/doi/10.1021/acs.jchemed.4c01490) for more info.
+
+The full part list, CAD files, and set of building instructions are available on the following [GitHub Repo](https://github.com/priye19/Low-cost---rotational-viscometer)
